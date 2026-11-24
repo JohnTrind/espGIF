@@ -81,3 +81,7 @@ TFT_eSPI · AnimatedGIF (bitbank2) · ESPAsyncWebServer (ESP32Async) · FastLED 
 ## License
 
 MIT
+
+## License
+
+[MIT](LICENSE)
